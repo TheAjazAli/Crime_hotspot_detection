@@ -1,4 +1,4 @@
-# Crime Hotspot Prediction & Visualization
+# Crime Hotspot Prediction & Visualization Dashboard
 
 A micro project supporting the research paper *"An Intelligent Crime
 Analysis and Hotspot Prediction System Using Ensemble Learning and
